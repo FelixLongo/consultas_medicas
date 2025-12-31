@@ -12,19 +12,19 @@
     <div class="menu">
       <div class="menu-item">
         <a href="cadastrar_paciente.php">
-          <img src="img/paciente.png" alt="Paciente">
+          <img src="paciente.png" alt="Paciente">
           <p>Cadastrar Paciente</p>
         </a>
       </div>
       <div class="menu-item">
         <a href="cadastrar_medico.php">
-          <img src="img/medico.png" alt="Médico">
+          <img src="medico.png" alt="Médico">
           <p>Cadastrar Médico</p>
         </a>
       </div>
       <div class="menu-item">
         <a href="agendar_consulta.php">
-          <img src="img/consulta.png" alt="Consulta">
+          <img src="consulta.png" alt="Consulta">
           <p>Agendar Consulta</p>
         </a>
       </div>
